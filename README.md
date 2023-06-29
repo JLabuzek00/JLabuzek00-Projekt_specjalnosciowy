@@ -4,4 +4,4 @@ Stworzony przez:
 
 Maciej Wyciszczak 42814
 
-Jakub Łazbuzek 43046
+Jakub Łabuzek 43046
